@@ -1,0 +1,2 @@
+[Mon Oct 30 15:37:40 PDT 2017] 0 of 1 tests passed
+[Mon Oct 30 17:11:53 PDT 2017] 1 of 1 tests passed
